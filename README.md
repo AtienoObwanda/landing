@@ -1,3 +1,3 @@
-# Ban landing page
+# Bank landing page
 
-_This is a landing page for a ban created using React and Tailwind CSS_
+_This is a landing page for a bank created using React and Tailwind CSS_
